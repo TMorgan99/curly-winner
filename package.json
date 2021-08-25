@@ -1,0 +1,11 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "site for av",
+  "scripts": {
+    "dev": "eleventy  --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Morgan <tmorgan99@gmail.com>",
+  "license": "ISC"
+}
