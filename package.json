@@ -4,6 +4,7 @@
   "description": "site for av",
   "scripts": {
     "dev": "eleventy  --watch",
+    "build": "eleventy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tim Morgan <tmorgan99@gmail.com>",
